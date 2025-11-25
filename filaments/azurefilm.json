@@ -521,7 +521,7 @@
         },
         {
         "name": "PCABS {color_name}",
-            "material": "PC-ABS",
+            "material": "PCABS",
             "density": 1.04,
             "weights": [
                 {
