@@ -256,7 +256,7 @@
                 {
                     "name": "Transparent Red",
                     "hex": "df0001",
-                    "translucent", true
+                    "translucent": true
                 },
                 {
                     "name": "Raspberry Red",
